@@ -15,9 +15,8 @@ const posts = [
       role: 'Web Developer',
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋', },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',},
-      { type: 'link', content: 'jane.design/doctorcare', },
+       'Fala galeraa 👋',
+       'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',
     ],
     publishedAt: new Date('2022-12-17 23:00:00'),
   },
@@ -29,9 +28,8 @@ const posts = [
       role: 'CTO @Rocketseat',
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋', },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',},
-      { type: 'link', content: 'jane.design/doctorcare', },
+      'Fala galeraa 👋',
+      'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'
     ],
     publishedAt: new Date('2022-12-22 23:00:00'),
   },
